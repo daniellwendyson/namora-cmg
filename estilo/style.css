@@ -1,0 +1,23 @@
+div#nao {
+    margin: 30px;
+    position: absolute;
+    width: 1290px;
+    height: 80px;
+}
+
+h1 {
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+
+img { 
+    width: 500px;
+    height: 300px;
+}
+
+div#aceito {
+    margin: 20px;
+}
